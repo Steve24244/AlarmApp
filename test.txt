@@ -4,4 +4,4 @@ I edited this file
 
 Bitch who fucking edited this shit.
 
-Editing this again but pushing from command line- Alec
+Editing this again but pushing from command line, But still figuring out how to merge branches via this Command Line- Alec
