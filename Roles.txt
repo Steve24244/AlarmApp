@@ -1,0 +1,13 @@
+Use to seperate and manage what everyone will be working on. Do not use for what you changed in commits.
+
+Alec:
+
+Steve:
+
+Travis:
+
+CJ:
+
+John: 
+
+If I forgot to add you or you join later, add yourself and commit the changes. 
